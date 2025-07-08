@@ -1,0 +1,7 @@
+[Link text](https://pay.test.com/about/static/README.md "Optional title attribute")
+[Link text](README.md)
+[Link text](nestedFolder/README.md)
+[Link text](/from-repo-root/README.md)
+[Alt text](README.md#anchor)
+[Alt text](#anchor)
+[Alt text](folder with spaces/README.md)
