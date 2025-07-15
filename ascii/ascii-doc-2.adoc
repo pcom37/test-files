@@ -91,3 +91,5 @@ Sub-section at level 2.
 	</g>
 </svg>
 ++++
+
+image::../svg/hostgator.svg[]
